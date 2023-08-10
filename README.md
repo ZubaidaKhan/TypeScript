@@ -11,7 +11,7 @@ TypeScript is a JavaScript with an extra features that make code:
 # Defination:
 TypeScript is JavaScript with syntax for types. TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 TypeScript is a superset of JavaScript which means any valid JavaScript code is also valid TypeScript code.
-# Syntax:
+## Syntax:
  variable_name:types = values
 #  Why TypeScript?
 TypeScript is more readable and maintainable than JavaScript. TypeScript supports abstraction through interfaces, while JavaScript does not. TypeScript allows developers to annotate code with decorators, while JavaScript does not.
@@ -22,6 +22,10 @@ There is also an option to create a TypeScript in Next.js that is very beneficia
 # Features of TypeScript
 
 ![image](https://github.com/ZubaidaKhan/TypeScript/assets/141108671/d341f02a-7c78-4def-97a7-076adf251f6e)
+Object-Oriented language:
+                                                          TypeScript provides a complete feature of an object-oriented programming language such as classes, interfaces, inheritance, modules, etc. In TypeScript, we can write code for both client-side as well as server-side development.
+## Generics :
+                       Generics is an important feature in TypeScript that enables developers to create reusable code components which work with different types instead of a single type.        
 
 
 
