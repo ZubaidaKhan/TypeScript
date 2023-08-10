@@ -42,6 +42,22 @@ TypeScript is portable because it can be executed on any browsers, devices, or a
 
 ## DOM Manipulation:
  TypeScript can be used to manipulate the DOM for adding or removing elements similar to JavaScript.
+ 
+# Tightly coupled and loosely coupled?
+##Tight couple:
+Tight coupling refers to a situation where two or mor  software components are closely connected and depend on each other to function properly. 
+##Loose couple:
+   Loose coupling, on the other hand, means that the components are less dependent on each other and can operate more independently.
+
+   ![image](https://github.com/ZubaidaKhan/TypeScript/assets/141108671/3f36bf97-8c0b-416c-89d7-9efdc7ca7d83)
+
+# Cohesion
+Cohesion refers to the degree to which the elements of a module/class belong together, it is suggested that the related code should be close to each other, so we 
+ should strive for high cohesion and bind all related code together as close as possible. It has to do with the elements within the module/class.
+ ![Uploading image.png…]()
+
+
+
 
 
 
