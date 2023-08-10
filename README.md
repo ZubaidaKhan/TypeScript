@@ -1,4 +1,4 @@
-# Introduction to the TypeScript
+ # Introduction to the TypeScript
 # What is TypeScript?
 TypeScript is a superset of JavaScript that add static typing and other features to enhance JavaScript developement .It was developed by Microsoft Oct 1,2012 and is now an open source project with a large community of contributer.
 TypeScript is a JavaScript with an extra features that make code:
@@ -11,6 +11,17 @@ TypeScript is a JavaScript with an extra features that make code:
 # Defination:
 TypeScript is JavaScript with syntax for types. TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale.
 TypeScript is a superset of JavaScript which means any valid JavaScript code is also valid TypeScript code.
-Syntax:
+# Syntax:
  variable_name:types = values
+#  Why TypeScript?
+TypeScript is more readable and maintainable than JavaScript. TypeScript supports abstraction through interfaces, while JavaScript does not. TypeScript allows developers to annotate code with decorators, while JavaScript does not.
+Angular is modern framework built entirely inTypeScript ,and as a result,using TypeScript with Angular provides a seamless experience.
+Vue is written in TypeScript itself and provide first class TypeScript support.A type system like TypeScript can detect many common error.
+React is written in avaScript but it also useTypeScript.
+There is also an option to create a TypeScript in Next.js that is very beneficial for us.
+# Features of TypeScript
+
+![image](https://github.com/ZubaidaKhan/TypeScript/assets/141108671/d341f02a-7c78-4def-97a7-076adf251f6e)
+
+
 
