@@ -1,4 +1,4 @@
-.	Create a class called Person with properties for name, age, and gender.
+1.	Create a class called Person with properties for name, age, and gender.
 2.	Implement a constructor in the Person class to initialize its properties.
 3.	Add a method in the Person class to display the person's information.
 4.	Create a subclass Student that inherits from the Person class.
